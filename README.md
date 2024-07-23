@@ -15,7 +15,7 @@ npm run both
 ```
 ## Author
 
-👤 **Harsh Chalikwar**
+**Harsh Chalikwar**
 
 ## Show your support
 
