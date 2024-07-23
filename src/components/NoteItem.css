@@ -1,0 +1,35 @@
+.card {
+    border: none;
+    background: linear-gradient(145deg, #f3f4f6, #e2e4e8);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .card-buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .card-buttons .btn {
+    border: none;
+    border-radius: 0; /* Square ends */
+    transition: all 0.3s ease;
+  }
+  
+  .card-buttons .btn:hover {
+    transform: scale(1.1);
+  }
+  
